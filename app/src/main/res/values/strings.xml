@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProyectoCopy</string>
+    <string name="cad1">Una cuenta. Todo Google.</string>
+    <string name="cad2">Correo electronico o telefono</string>
+    <string name="cad3">Siguiente</string>
+    <string name="cad4_1">Encontrar mi cuenta</string>
+    <string name="cad4_2">Crear cuenta</string>
+    <string name="cad5">Una sola cuenta de Google para todos</string>
+    <string name="cad6">los servicios de Google</string>
+    <string name="cad7">Acerca de Google</string>
+    <string name="cad8">Privacidad</string>
+    <string name="cad9">Condicion</string>
+    <string name="cc">sss</string>
+</resources>
